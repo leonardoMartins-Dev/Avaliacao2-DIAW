@@ -14,11 +14,11 @@ Aplicação React + Vite para a votação de eliminação de **A Fazenda 2026**.
 |:----------------------------------------------------:|
 |                        Home                          |
 
-| <img src="prints/Votacao.png" alt="Votação" width="1000"/> |
+| <img src="Fazendeiro/prints/Votacao.png" alt="Votação" width="1000"/> |
 |:----------------------------------------------------:|
 |                       Votação                        |
 
-| <img src="prints/Resultados.png" alt="Resultado" width="1000"/> |
+| <img src="Fazendeiro/prints/Resultados.png" alt="Resultado" width="1000"/> |
 |:----------------------------------------------------:|
 |                      Resultado                       |
 
